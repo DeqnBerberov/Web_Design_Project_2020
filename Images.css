@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.menu_image{
+	height:70px;
+	float: center;
+}
+
+hr {
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+}
