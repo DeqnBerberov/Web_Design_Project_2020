@@ -7,7 +7,7 @@
 	overflow:hidden;
 	height: 70px;
 	line-height: 70px;
-	background-image:url("./Stela.png");
+	background-image:url("./images/Stela.png");
 	background-size: 1400px 70px;
 	background-repeat: no-repeat;
 	background-position: 70px 0px; 
@@ -47,4 +47,17 @@
 
 a{
 	text-decoration: none;
+}
+
+.cl {
+	display:block;
+	height:0;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	clear:both;
+}
+
+#main {
+	margin-top:11px;
 }
