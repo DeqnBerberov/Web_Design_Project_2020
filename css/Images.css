@@ -37,9 +37,8 @@ h2{
 .box .box-image {
 	float:left;
 	display:inline;
-	width:220px;
+	width:150px;
 	height:160px;
-	margin-right:11px;
 	position:relative;
 }
 
