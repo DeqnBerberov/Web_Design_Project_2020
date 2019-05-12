@@ -7,7 +7,7 @@
 	overflow:hidden;
 	height: 70px;
 	line-height: 70px;
-	background-image:url("D:/GitHubCodes/Web_Design_Project_2020/images/Stela.png");
+	background-image:url("../images/Stela.png");
 	background-size: 1400px 70px;
 	background-repeat: no-repeat;
 	background-position: 70px 0px; 
@@ -32,13 +32,13 @@
 }
 
 .menu li a{
-	color: #cee1ff;
+	color: white;
 	text-decoration: none;
 	font-family: calibri;
 }
 
 .menu li:hover{
-	background: purple;
+	background: red;
 }
 
 .menu li a:hover{
