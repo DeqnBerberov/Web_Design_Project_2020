@@ -1,0 +1,23 @@
+.question{
+	float:left;
+	font-size:25px;
+	color: black;
+	line-height:25px;
+	display: inline-block;
+}
+
+.answer{
+	float:left;
+	font-size:25px;
+	color: white;
+	line-height:25px;
+	display: inline-block;
+}
+
+.my-image{
+	float:left;
+	display:inline;
+	width:190px;
+	height:220px;
+	position:relative;
+}

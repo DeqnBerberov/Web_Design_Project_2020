@@ -1,0 +1,9 @@
+.meme-box {
+	width:900px;
+	float:left;
+	display:inline;
+	background:rgb(38,74,153);
+	padding:11px;
+	margin:0 10px 11px 0;
+	position:relative;
+}
